@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: wham
+Version: 0.1.0
+Summary: WHAM: World-grounded Humans with Accurate Motion
+Author: Kytolly
+License-File: LICENSE
+Requires-Dist: numpy<1.24
+Requires-Dist: chumpy
+Requires-Dist: smplx
+Requires-Dist: yacs
+Requires-Dist: loguru
+Dynamic: author
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary
